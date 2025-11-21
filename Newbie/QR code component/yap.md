@@ -1,0 +1,1 @@
+Centered box consisting of the QR code, subheading, and a paragraph (in this order) for both desktop and mobile. No need to resize to make responsive for mobile

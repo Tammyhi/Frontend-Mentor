@@ -2,11 +2,11 @@
 For free & free+ frontend mentor challenges
 ## Newbie
 - [ ] QR code component
-- [ ] Blog preview card
+- [ ] Blog preview card [skip]
 - [ ] Social links profile
 - [ ] Results summary component
-- [ ] Product preview card component
-- [ ] NFT preview card component
+- [ ] Product preview card component [skip]
+- [ ] NFT preview card component [skip]
 - [ ] Order summary component
 - [ ] Stats preview card component
 - [ ] 3-column preview card component
@@ -14,13 +14,13 @@ For free & free+ frontend mentor challenges
 - [ ] Profile card component
 - [ ] Social proof section
 - [ ] Four card feature section
-- [ ] Huddle landing page with a single introductory section
-- [ ] Recipe page
+- [ ] Huddle landing page with a single introductory section [skip]
+- [ ] Recipe page [skip]
 - [ ] FAQ accordion
 - [ ] Article preview component
 - [ ] Base Apparel coming soon page
 - [ ] Intro component with sign-up form
-- [ ] Ping single column coming soon page
+- [ ] Ping single column coming soon page [skip]
 - [ ] Interactive rating component
 
 ## Junior
@@ -28,12 +28,12 @@ For free & free+ frontend mentor challenges
 - [ ] Fylo data storage component
 - [ ] Bento grid
 - [ ] News homepage
-- [ ] Agency landing page
+- [ ] Agency landing page [skip]
 - [ ] Clipboard landing page
 - [ ] Fylo dark theme landing page
 - [ ] Contact form
 - [ ] Expenses chart component
-- [ ] Loopstudios landing page
+- [ ] Loopstudios landing page [skip]
 - [ ] Project tracking intro component
 - [ ] Newsletter sign-up form with success message
 - [ ] Age calculator app
@@ -43,10 +43,10 @@ For free & free+ frontend mentor challenges
 - [ ] Coding bootcamp testimonials slider
 - [ ] Social media dashboard with theme switcher
 - [ ] Pricing component with toggle
-- [ ] Mortgage repayment calculator
+- [ ] Mortgage repayment calculator [skip]
 - [ ] Time tracking dashboard
 - [ ] Tip calculator app
-- [ ] Insure landing page
+- [ ] Insure landing page [skip]
 - [ ] Product list with cart
 - [ ] Notifications page
 - [ ] Interactive card details form
@@ -57,12 +57,12 @@ For free & free+ frontend mentor challenges
 
 ## Intermediate
 - [ ] Digital bank landing page
-- [ ] Manage landing page
+- [ ] Manage landing page [skip]
 - [ ] Room homepage
-- [ ] Chat app CSS illustration
+- [ ] Chat app CSS illustration [skip]
 - [ ] Interactive comments section
 - [ ] Job listings with filtering
-- [ ] Bookmark landing page
+- [ ] Bookmark landing page [skip]
 - [ ] E-commerce product page
 - [ ] URL shortening API landing page
 - [ ] Space tourism multi-page website
