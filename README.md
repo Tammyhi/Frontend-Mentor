@@ -1,7 +1,7 @@
 # Frontend-Mentor
 Using free & free+ frontend mentor challenges as practice. The aim is not to get the design perfectly, but to get it to a good-enough level that I can replicate something similar.
 ## Newbie
-- [ x ] QR code component
+- [x] QR code component
 - [ ] Blog preview card [skip]
 - [ ] Social links profile
 - [ ] Results summary component
